@@ -201,3 +201,15 @@ header{
 
 
 /*=================== Practice Session ===============*/
+
+/* hover effect for all menu links */
+#menu li a:hover {
+    color: #ffcc66;
+    text-decoration: underline;
+}
+
+/* current page style */
+#menu li a.current {
+    color: #ffcc66;
+    text-decoration: underline;
+}
